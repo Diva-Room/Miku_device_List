@@ -41,4 +41,4 @@ git push
 ```
 
 ## 第五步：
-发起Pull Request！
+发起Pull Request！参考这个模板哦：https://github.com/Miku-UI-Devices/Miku_device_List/pull/2

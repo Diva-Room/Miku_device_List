@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "Master": "Nanhumly",
+        "Country": "China",
+        "OEM": "Xiaomi",
+        "Device": "MI 6",
+        "Code": "sagit",
+        "Type": "COMMUNITY",
+        "Github": "https://github.com/Nanhumly",
+        "Telegram": "https://t.me/Nanhumly",
+        "Email": "admin@warbler.cc"
+    }
+  ]
+}

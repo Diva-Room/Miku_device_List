@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "Master": "Nanhumly",
+        "Country": "China",
+        "OEM": "Xiaomi",
+        "Device": "MI MIX 2",
+        "Code": "chiron",
+        "Type": "COMMUNITY",
+        "Github": "https://github.com/Nanhumly",
+        "Telegram": "https://t.me/Nanhumly",
+        "Email": "admin@warbler.cc"
+    }
+  ]
+}
